@@ -1,0 +1,16 @@
+/*selector{
+	property: value; 
+}*/
+
+p{
+	color: red;
+}
+
+li{
+	border: solid blue 10px;
+	list-style: none;
+	display: inline-block;
+	color: green;
+	padding: 20Px
+	margin: solid 10px;
+}
